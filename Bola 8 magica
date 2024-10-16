@@ -1,7 +1,1 @@
-import random 
-questao = input('Questao:         ')
-randon_number = random.randint(1,9)
-if resposta == (1,9):
-  print(Yes - definitely)
-if resposta == (1,9):
-  print ("my sources say no") 
+
